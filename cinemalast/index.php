@@ -23,8 +23,6 @@ session_start();
       <a href="profile.php">Profile</a> |
       <a href="logout.php">Logout</a></p>
   <?php endif; ?>
-
-  <p>Use manager credentials: <strong>manager@cinema.com / managerpass</strong> (sample)</p>
 </div>
 </body>
 </html>
