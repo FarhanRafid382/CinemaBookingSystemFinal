@@ -21,7 +21,7 @@ INSERT INTO movies (title, showtime, release_date, price_per_seat, total_seats, 
 ('Sky Frontier','2025-12-13 20:30:00','2025-11-29',200.00,150,3,'Sci-Fi','2h10m'),
 ('Laugh Out','2025-12-11 17:15:00','2025-11-20',130.00,90,4,'Comedy','1h40m'),
 ('Tidal Storm','2025-12-14 21:00:00','2025-12-02',220.00,160,5,'Action','2h05m'),
-VALUES ('Example Movie','2025-12-10 19:00:00','2025-12-01',150.00,100,1,'Action','2h');
+('Example Movie','2025-12-10 19:00:00','2025-12-01',150.00,100,1,'Action','2h');
 
 -- sample users
 INSERT INTO users (name, phone, email, password, is_approved) VALUES
